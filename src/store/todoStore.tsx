@@ -62,11 +62,6 @@ class TodoStore {
       this.todos.find((item) => item.id === idTodo) || this.todoSelected;
   };
 
-  findTodo = (idTodo: number) => {
-    const todo = this.todos.find((item) => item.id !== idTodo);
-    return todo;
-  };
-
   editTodo = (todo: ITodo) => {
     this.todoSelected = todo;
     this.todos = this.todos.map((item) => {
