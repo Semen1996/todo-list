@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todo-list/static/css/main.7ab564d8.css",
+    "main.js": "/todo-list/static/js/main.72809c94.js",
+    "static/js/787.64d33ca6.chunk.js": "/todo-list/static/js/787.64d33ca6.chunk.js",
+    "static/media/Inter-Bold.woff?v=3.19": "/todo-list/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
+    "static/media/Inter-Black.woff?v=3.19": "/todo-list/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff?v=3.19": "/todo-list/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Bold.woff2?v=3.19": "/todo-list/static/media/Inter-Bold.ec64ea577b0349e055ad.woff2",
+    "static/media/Inter-Black.woff2?v=3.19": "/todo-list/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2?v=3.19": "/todo-list/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/delete-icon.svg": "/todo-list/static/media/delete-icon.91cd80083805bda51018.svg",
+    "index.html": "/todo-list/index.html",
+    "main.7ab564d8.css.map": "/todo-list/static/css/main.7ab564d8.css.map",
+    "main.72809c94.js.map": "/todo-list/static/js/main.72809c94.js.map",
+    "787.64d33ca6.chunk.js.map": "/todo-list/static/js/787.64d33ca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ab564d8.css",
+    "static/js/main.72809c94.js"
+  ]
+}
