@@ -68,7 +68,6 @@ class TodoStore {
   };
 
   editTodo = (todo: ITodo) => {
-    console.log(todo);
     this.todoSelected = todo;
     this.todos = this.todos.map((item) => {
       if (item.id === todo.id) {
