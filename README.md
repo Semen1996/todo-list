@@ -13,7 +13,7 @@
 
 * HTML
 * CSS
-* JS
+* TS
 * React.js
 * MobX
 
